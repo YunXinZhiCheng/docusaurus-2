@@ -15,7 +15,7 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/doc1',
+          to: 'docs/网站导航',
           activeBasePath: 'docs',
           label: '文档',
           position: 'left',
@@ -32,7 +32,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '文档',
           items: [
             {
               label: 'Style Guide',
@@ -45,7 +45,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: '网站',
           items: [
             {
               label: 'Stack Overflow',
